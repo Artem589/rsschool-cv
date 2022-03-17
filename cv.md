@@ -16,5 +16,21 @@ Now I'm moving on to learning React.
     - Disciplined
     - Result oriented.
     - Desire learn new technologies and tools.
+# Skills
++ HTML
++ CSS
++ Figma
++ JS(Basics,ES6,DOM,AJAX)
++ Git/GitHub
++ React(Beginner)
 
-
+# Code Example
+``` 
+function updateLight(current) {
+  switch(current) {
+      case 'green': return 'yellow';
+      case 'yellow': return 'red';
+      case 'red': return 'green'
+  }
+}
+```
