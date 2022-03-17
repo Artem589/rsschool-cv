@@ -34,3 +34,13 @@ function updateLight(current) {
   }
 }
 ```
+# Experience
+# Education
+* ### Courses
++ HTML & CSS [freecodecamp](https://www.freecodecamp.org/)
++ JavaScript Manual [kantor](https://learn.javascript.ru/)
++ React Manual [React](https://ru.reactjs.org/)
+* ### Youtube Channel
++ [Vladilen Minin](https://www.youtube.com/c/VladilenMinin)
++ [TimurShemsedinov](https://www.youtube.com/c/TimurShemsedinov)
++ [freecodecamp](https://www.youtube.com/c/Freecodecamp)
