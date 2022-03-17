@@ -13,8 +13,8 @@ and practices from the frontend. During the training I studied HTML, CSS, JS.
 Now I'm moving on to learning React.
 + **My strengths:**
     - Analytical skills
-    - disciplined
-    - result oriented.
-    - desire learn new technologies and tools.
+    - Disciplined
+    - Result oriented.
+    - Desire learn new technologies and tools.
 
 
