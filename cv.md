@@ -44,3 +44,6 @@ function updateLight(current) {
     - [Vladilen Minin](https://www.youtube.com/c/VladilenMinin)
     - [TimurShemsedinov](https://www.youtube.com/c/TimurShemsedinov)
     - [freecodecamp](https://www.youtube.com/c/Freecodecamp)
+# Languages
++ **Russan**
++ **English** - A2  
